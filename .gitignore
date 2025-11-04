@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Jupyter
+*.ipynb_checkpoints/
+
+# 환경/IDE
+.env
+.vscode/
+.idea/
+
+# 기타
+*.log
